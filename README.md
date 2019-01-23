@@ -1,12 +1,3 @@
----
-title: "Countries Visited Animated GIF"
-author: "Laurent Smeets"
-date: "23 January 2019"
-output:  
-      html_document:  
-        keep_md: true  
----
-
 ### Introduction
 Since I am planning on using some gg_animate gifs for my thesis, it seemed like a good idea to start with a small project. This gif shows the countries I have visited thus far in order (or so I think, I haven't gone through the photo albums yet). A lot of the code was inspired by this [Github page](https://gist.github.com/rafapereirabr/0d68f7ccfc3af1680c4c8353cf9ab345#file-life_expect_world_map_gif-md). However, I did use the latest `gg_animate` grammar. Countries that I visited more than once, only show up the first time I visited them.
 
